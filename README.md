@@ -81,4 +81,4 @@ Here are some ideas to get you started:
 ![https://instagram.com/rnnosandi.p_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/renno-s-prabowo-8bb158200](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ##### My Github Stats
-![Sandi's  GitHub stats](https://github-readme-stats.vercel.app/api?username=sandiprabowo&show_icons=true&bg_color=00000000)
+![Sandi's  GitHub stats](https://github-readme-stats.vercel.app/api?username=sandiprabowo&show_icons=true&bg_color=ambient_gradient)
