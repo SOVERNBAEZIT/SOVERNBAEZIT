@@ -151,13 +151,23 @@ I am Sandi Prabowo, an Information Systems graduate currently architecting my pa
 ## My Contribution Graph
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandiprabowo/sandiprabowo/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandiprabowo/sandiprabowo/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sandiprabowo/sandiprabowo/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOVERNBAEZIT/SOVERNBAEZIT/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOVERNBAEZIT/SOVERNBAEZIT/output/github-contribution-grid-snake.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/SOVERNBAEZIT/SOVERNBAEZIT/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
+<!-- Snake -->
 
-<img src="https://raw.githubusercontent.com/sandiprabowo/sandiprabowo/output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+ ![snake gif](https://github.com/SOVERNBAEZIT/SOVERNBAEZIT/blob/output/github-snake-dark.svg)
+</div>
+
+
+
+<!-- Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=technologyhell&label=Profile%20Views&color=blue&style=flat-square&logo=github" alt="Views Counter" />
+</p>
+
