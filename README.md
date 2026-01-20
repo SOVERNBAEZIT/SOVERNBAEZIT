@@ -71,7 +71,6 @@ I am Sandi Prabowo, an Information Systems graduate currently architecting my pa
 
 <!-- # 💫 About Me: -->
 ### Hello World! i'm Sandi Prabowo<br>___<br>
-<div align="center">
 
 🔭 I’m currently working on: Projects at @KelasTerbuka dan @WPUnpas to strengthen my web development skills.<br>👯 I’m looking to collaborate on: Open-source projects involving React.js, Vue.js, or Angular.js.<br>🤝 I’m looking for help with: Advanced implementation of Cybersecurity and AI within web applications.<br>🌱 I’m currently learning: JavaScript to solidify my Front-End Core foundation.<br>💬 Ask me about: UI/UX Design (Figma/Adobe XD), UML Architecture, or building responsive interfaces.<br>⚡ Fun fact: I believe that "From Conceptual Blueprints to Responsive Reality," great code must be both visually beautiful and logically sound. I'll find every bug responsible, and I'll kill every last one of them.
 
