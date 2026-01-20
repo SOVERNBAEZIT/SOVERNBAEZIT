@@ -74,6 +74,7 @@ I am Sandi Prabowo, an Information Systems graduate currently architecting my pa
 
 🔭 I’m currently working on: Projects at @KelasTerbuka dan @WPUnpas to strengthen my web development skills.<br>👯 I’m looking to collaborate on: Open-source projects involving React.js, Vue.js, or Angular.js.<br>🤝 I’m looking for help with: Advanced implementation of Cybersecurity and AI within web applications.<br>🌱 I’m currently learning: JavaScript to solidify my Front-End Core foundation.<br>💬 Ask me about: UI/UX Design (Figma/Adobe XD), UML Architecture, or building responsive interfaces.<br>⚡ Fun fact: I believe that "From Conceptual Blueprints to Responsive Reality," great code must be both visually beautiful and logically sound. I'll find every bug responsible, and I'll kill every last one of them.
 
+<div align="center">
 
 ### 💻 Tech Stack:
 ---
@@ -101,6 +102,8 @@ I am Sandi Prabowo, an Information Systems graduate currently architecting my pa
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+<div align="center">
 
 ### 📊 GitHub Stats:
 ---
@@ -131,16 +134,13 @@ I am Sandi Prabowo, an Information Systems graduate currently architecting my pa
 </p>
 
 ##### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SOVERNBAEZIT&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=SOVERNBAEZIT&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ##### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SOVERNBAEZIT&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=SOVERNBAEZIT&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SOVERNBAEZIT&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
