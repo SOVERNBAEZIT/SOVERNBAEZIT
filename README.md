@@ -145,12 +145,9 @@ I am Sandi Prabowo, an Information Systems graduate currently architecting my pa
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h2 align="left">Just Random Stats and Activity</h2>
+---
 
-#####
-
-### 
 <!-- Snake -->
-
 <div align="center">
 
  ![snake gif](https://github.com/SOVERNBAEZIT/SOVERNBAEZIT/blob/output/github-snake-dark.svg)
