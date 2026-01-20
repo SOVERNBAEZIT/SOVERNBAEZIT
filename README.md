@@ -141,12 +141,11 @@ I am Sandi Prabowo, an Information Systems graduate currently architecting my pa
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SOVERNBAEZIT&icon=0&color=0)](https://visitcount.itsvg.in)
-
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h2 align="left">Just Random Stats and Activity</h2>
 
----
 <!-- Snake -->
 <div align="center">
 
