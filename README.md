@@ -118,6 +118,15 @@ I am Sandi Prabowo, an Information Systems graduate currently architecting my pa
 
 <div align="center">
 
+##### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SOVERNBAEZIT&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+##### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SOVERNBAEZIT&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SOVERNBAEZIT&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ### 🌐 Socials:
 ---
 
@@ -133,14 +142,6 @@ I am Sandi Prabowo, an Information Systems graduate currently architecting my pa
   </a>
 </p>
 
-##### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SOVERNBAEZIT&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-##### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SOVERNBAEZIT&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=SOVERNBAEZIT&icon=0&color=0)](https://visitcount.itsvg.in)
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
