@@ -151,10 +151,11 @@ I am Sandi Prabowo, an Information Systems graduate currently architecting my pa
 ## My Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOVERNBAEZIT/SOVERNBAEZIT/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOVERNBAEZIT/SOVERNBAEZIT/output/github-contribution-grid-snake.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/SOVERNBAEZIT/SOVERNBAEZIT/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sovernbaezit/sovernbaezit/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sovernbaezit/sovernbaezit/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sovernbaezit/sovernbaezit/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 <!-- Snake -->
