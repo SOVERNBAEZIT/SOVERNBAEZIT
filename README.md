@@ -146,7 +146,9 @@ I am Sandi Prabowo, an Information Systems graduate currently architecting my pa
 
 <h2 align="left">Just Random Stats and Activity</h2>
 
-###
+#####
+
+### 
 <!-- Snake -->
 
 <div align="center">
@@ -157,5 +159,4 @@ I am Sandi Prabowo, an Information Systems graduate currently architecting my pa
 <!-- Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=technologyhell&label=Profile%20Views&color=blue&style=flat-square&logo=github" alt="Views Counter" />
-</p>
-
+</p> 
